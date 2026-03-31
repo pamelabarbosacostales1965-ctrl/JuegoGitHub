@@ -50,14 +50,14 @@ Este proyecto es una aplicación móvil desarrollada en **Flutter** que simula e
 *-Tener configurado un emulador o dispositivo físico
 ---
 ## Pasos para ejecutar el proyecto
-*1.Clonar el repositorio
-*git clone https://github.com/pamelabarbosacostales1965-ctrl/JuegoGitHub.git
-*2.Abrir el proyecto en Visual Studio Code
-*Instalar dependencias
-*3.En la terminal integrada de VS Code, ejecutar:
-*flutter pub get
-*4. Ejecutar la aplicación
-*flutter run
+* 1.Clonar el repositorio
+* git clone https://github.com/pamelabarbosacostales1965-ctrl/JuegoGitHub.git
+* 2.Abrir el proyecto en Visual Studio Code
+* Instalar dependencias
+* 3.En la terminal integrada de VS Code, ejecutar:
+* flutter pub get
+* 4. Ejecutar la aplicación
+* flutter run
 ---
 ##Notas importantes
 *Asegúrate de que Flutter esté correctamente configurado ejecutando:
