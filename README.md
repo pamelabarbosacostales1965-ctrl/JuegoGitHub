@@ -8,7 +8,6 @@ Este proyecto es una aplicación móvil desarrollada en **Flutter** que simula e
 * **Pamela Barbosa** - *Lógica de Negocio y Modelado de Datos*
 * **Estefania Solórzano** - *Interfaz de Usuario y Filtros de Sala*
 * **Giuliana Auqui** - *Pantalla de Resumen, Confirmación y Documentación*
-
 ---
 
 ## 🚀 Funcionalidades Principales
@@ -42,29 +41,29 @@ Este proyecto es una aplicación móvil desarrollada en **Flutter** que simula e
 
 ---
 ## ⚙️ Instalación y Uso
-Para ejecutar correctamente la aplicación, asegúrate de cumplir con los siguientes requisitos y pasos:
-🔹 Requisitos previos
--Tener instalado Flutter (versión 3.x o superior)
--Tener instalado Visual Studio Code con las extensiones:
--Flutter
--Dart
--Tener configurado un emulador o dispositivo físico
+* Para ejecutar correctamente la aplicación, asegúrate de cumplir con los siguientes requisitos y pasos:
+*🔹 Requisitos previos
+*-Tener instalado Flutter (versión 3.x o superior)
+*-Tener instalado Visual Studio Code con las extensiones:
+*-Flutter
+*-Dart
+*-Tener configurado un emulador o dispositivo físico
 ---
 ## Pasos para ejecutar el proyecto
-1.Clonar el repositorio
-git clone https://github.com/pamelabarbosacostales1965-ctrl/JuegoGitHub.git
-2.Abrir el proyecto en Visual Studio Code
-Instalar dependencias
-3.En la terminal integrada de VS Code, ejecutar:
-flutter pub get
-4. Ejecutar la aplicación
-flutter run
+*1.Clonar el repositorio
+*git clone https://github.com/pamelabarbosacostales1965-ctrl/JuegoGitHub.git
+*2.Abrir el proyecto en Visual Studio Code
+*Instalar dependencias
+*3.En la terminal integrada de VS Code, ejecutar:
+*flutter pub get
+*4. Ejecutar la aplicación
+*flutter run
 ---
 ##Notas importantes
-Asegúrate de que Flutter esté correctamente configurado ejecutando:
-flutter doctor
--Si es la primera vez ejecutando el proyecto, puede tardar unos minutos en descargar dependencias.
--Verifica que tengas un dispositivo/emulador activo antes de ejecutar la app.
+*Asegúrate de que Flutter esté correctamente configurado ejecutando:
+*flutter doctor
+*-Si es la primera vez ejecutando el proyecto, puede tardar unos minutos en descargar dependencias.
+*-Verifica que tengas un dispositivo/emulador activo antes de ejecutar la app.
 ---
 ## 📂 Estructura del Código
 
