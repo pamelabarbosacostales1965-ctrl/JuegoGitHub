@@ -6,7 +6,7 @@ Este proyecto es una aplicación móvil desarrollada en **Flutter** que simula e
 
 ## 👥 Integrantes del Equipo (Grupo X)
 * **Integrante 1:** [Nombre] - *Lógica de Negocio y Modelado de Datos*
-* **Integrante 2:** [Nombre] - *Interfaz de Usuario y Filtros de Sala*
+* **Estefania Solórzano** - *Interfaz de Usuario y Filtros de Sala*
 * **Giuliana Auqui** - *Pantalla de Resumen, Confirmación y Documentación*
 
 ---
